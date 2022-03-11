@@ -1,0 +1,37 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Fidelity Club 11",
+            "program": "apps/fidelity_club/lib/main.dart",
+            "request": "launch",
+            "type": "dart",
+            // "deviceId": "f30396300605" // Xiaomi
+            // "deviceId": "b5b91e98bc1dd4237a5fb6e858682a56c2c46687" // 5s
+            "deviceId": "BE2A284F-22F2-41E2-9BDC-E3E9138F2330", // 11
+        },
+        {
+            "name": "Fidelity Club 6",
+            "program": "apps/fidelity_club/lib/main.dart",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "4255DEB8-6EB5-465C-B49B-282410991E24" // 6
+        },
+        {
+            "name": "Fidelity Club device",
+            "program": "apps/fidelity_club/lib/main.dart",
+            "request": "launch",
+            "type": "dart",
+            // "deviceId": "4255DEB8-6EB5-465C-B49B-282410991E24" // 6
+        },
+        {
+            "name": "numbersTest",
+            "program": "numbersTest.dart",
+            "type": "dart",
+            "request": "launch"
+        },
+    ]
+}
