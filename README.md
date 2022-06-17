@@ -1,1 +1,1 @@
-# loyaltyApp 1.0
+fidelityApp 1.0
