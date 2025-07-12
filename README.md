@@ -1,4 +1,4 @@
-#  Fidelity Point Card - Mobile App
+# Point Card App - Mobile App
 This app was built for clients to gather points on purchases and exchange them for prizes
 
 ## Features
